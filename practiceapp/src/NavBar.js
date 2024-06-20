@@ -18,6 +18,7 @@ const NavBar = () => {
           </Nav>
           <Nav>
             <Nav.Link as={Link} to="/login" style={{ color: 'white' }}>Login</Nav.Link>
+            <Nav.Link as={Link} to="/register" style={{ color: 'white' }}>Register</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
