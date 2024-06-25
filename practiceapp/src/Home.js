@@ -8,7 +8,7 @@ import maldives from './images/maldives.webp';
 
 const Home = () => {
   return (
-    <Container style={{ marginTop: '80px', width: '90%' }}>
+    <Container style={{ marginTop: '90px', width: '90%' }}>
       <Carousel>
         <Carousel.Item>
           <Card style={{ height: '650px', position: 'relative' }}>
